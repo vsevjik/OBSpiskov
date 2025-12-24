@@ -61,6 +61,7 @@ vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@178.154.205.131:443?encryption=none
 vless://2f7d7016-74e0-42d4-a0ac-6470322a4d33@51-wl.connect-opengate.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-22.userapi.com&fp=qq&pbk=CM_8BBs3aFSoioBTi0ciNTD5h4j-4vPcxfqUmwyYXVk&sid=348dc0b768acd16f&spx=%2F&allowInsecure=1&type=tcp&headerType=none#White list 🏳️| All operators | EaveVPN
 
 
+vless://55556b1f-7b61-49ee-bfcc-10ed900f1b61@217.16.26.52:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=43dcff53849b81e6#%F0%9F%87%A7%F0%9F%87%AA+Belgium+%5B*CIDR%5D
 
 hy2://dongtaiwang.com@62.210.99.49:40088?insecure=1&sni=apple.com#%E2%9C%8572
 vless://402336f0-6589-456d-864f-6c7c8b2fb0b0@188.72.103.3:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&extra=%7B%22noGRPCHeader%22%3Afalse%2C%22scMaxConcurrentPosts%22%3A100.0%2C%22scMaxEachPostBytes%22%3A1000000.0%2C%22scMinPostsIntervalMs%22%3A30.0%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&allowinsecure=0&type=xhttp&sni=ch.fjdjdjfjd.icu#%F0%9F%87%B5%F0%9F%87%B1+%5B%D1%82%D0%B5%D1%81%D1%82%5D+Gdansk+1+%7C+LTE+%7C+%D0%A0%D0%BE%D1%81%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC
