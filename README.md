@@ -1,8 +1,5 @@
 # OBSpiskov
 @catlerok12
 
-https://ultimatewbypass.netlify.app/
-
-Для поиска конфигов (бета)
-
-Подписка OBSpiskov
+Подписка OBSpiskov (только для участников @catler_community)
+https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwh
