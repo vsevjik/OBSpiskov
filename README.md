@@ -3,3 +3,5 @@
 
 Подписка OBSpiskov (только для участников @catler_community)
 https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwh
+
+##Чо за белые списки?
