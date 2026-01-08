@@ -2,6 +2,7 @@
 #subscription-userinfo: upload=123456789; download=987654321; total=0; expire=0
 #support-url: https://t.me/obspiskov
 #announce: Обновление 1.0.10 выйдет 09.01.26!                Версия 1.0.9.1
+#announce\n: Версия 1.0.9.1
 vless://01010101@telegramkanal:443?security=none&encryption=none&headerType=none&type=tcp#%E2%9D%84%EF%B8%8F+%D1%82%D0%B3%D0%BA%3A+%40obspiskov+%E2%9D%84%EF%B8%8F
 vless://01010101@byvsevjik:443?security=none&encryption=none&headerType=none&type=tcp#%E2%9D%84%EF%B8%8F+By+%40vsevj_134+%E2%9D%84%EF%B8%8F
 vless://101010101010101010100101@merryChristmasru:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8E%84+%D0%A1+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%BC%21+%F0%9F%8E%84
