@@ -1,4 +1,5 @@
 #profile-title: 🎄 OBSpiskov 🎄
+#subscription-userinfo: upload=123456789; download=987654321; total=1099511627776; expire=4102444800
 #support-url: https://t.me/obspiskov
 #announce: Обновление 1.0.10 выйдет 09.01.26!
 vless://37377373@obs:443?security=none&encryption=none&headerType=none&type=tcp#%E2%9D%84%EF%B8%8F+OBSpiskov+%E2%9D%84%EF%B8%8F
