@@ -1,7 +1,15 @@
 #profile-title: 🎄 OChSpiskov 🎄
 #support-url: https://t.me/obspiskov
-#announce: Версия 0.0.2  тгк:@obspiskov
+#announce: Версия 0.0.3  тгк:@obspiskov
 vless://01010101@telegramkanal:443?security=none&encryption=none&headerType=none&type=tcp#%E2%9D%84%EF%B8%8F+%D1%82%D0%B3%D0%BA%3A+%40obspiskov+%E2%9D%84%EF%B8%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#%5Bopenproxylist.com%5D+NL+5664246
+vmess://eyJhZGQiOiI1MS43OS4xMDIuMjUzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6IjgwIiwicHMiOiJbb3BlbnByb3h5bGlzdC5jb21dIENBIDY5Mzc5NjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://7b148add-4438-426e-a583-50f11e7bd0e4@91.107.148.79:443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%5Bopenproxylist.com%5D+DE+12511396
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@223.16.138.113:10201?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&encryption=none&host=sni.111000.cc.cd&allowinsecure=0&type=ws&sni=sni.111000.cc.cd#%5Bopenproxylist.com%5D+CA+12135663
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.106.99:544?security=tls&headerType=none&allowinsecure=0&type=tcp&sni=www.nintendogames.net#%5Bopenproxylist.com%5D+SG+12534386
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@223.16.138.113:10201?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&encryption=none&host=sni.111000.cc.cd&allowinsecure=0&type=ws&sni=sni.111000.cc.cd#%5Bopenproxylist.com%5D+HK+10758
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@172.64.146.20:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.cc.cd&fp=chrome&allowinsecure=0&type=ws&sni=sni.111000.cc.cd#%5Bopenproxylist.com%5D+CA+4897097
+vmess://eyJhZGQiOiJ0MS42MjA3MjAueHl6IiwiYWlkIjoiMCIsImFsbG93aW5zZWN1cmUiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InQxLjYyMDcyMC54eXoiLCJpZCI6IjUxNmQ4YTdhLTNmMGItNDFkMy1iYWQwLTI0NjExNjM4MTUxNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODQ0MyIsInBzIjoiW29wZW5wcm94eWxpc3QuY29tXSBKUCAxMTMzOTIwMCIsInNjeSI6ImF1dG8iLCJzbmkiOiJ0MS42MjA3MjAueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJndG0xLmt0bXdhbi5uZXQiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1KUCIsInBvcnQiOjEyODgzLCJpZCI6IjFlYzQ5YWFmLTI5OTAtNGM3Yi1hNDVjLWQxOTBlNmVhNTQzOCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiYmFpZHUuY29tIiwicGF0aCI6IlwvIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vmess://eyJhZGQiOiJndG0xLmt0bXdhbi5uZXQiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1BVSIsInBvcnQiOjEyODg5LCJpZCI6IjFlYzQ5YWFmLTI5OTAtNGM3Yi1hNDVjLWQxOTBlNmVhNTQzOCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiYmFpZHUuY29tIiwicGF0aCI6IlwvIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vmess://eyJhZGQiOiJndG0xLmt0bXdhbi5uZXQiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1UVyIsInBvcnQiOjEyODg4LCJpZCI6IjFlYzQ5YWFmLTI5OTAtNGM3Yi1hNDVjLWQxOTBlNmVhNTQzOCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiYmFpZHUuY29tIiwicGF0aCI6IlwvIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
