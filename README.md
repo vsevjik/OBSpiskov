@@ -1,5 +1,5 @@
 # OBSpiskov
-@catlerok12
+@obspiskov
 
 Подписка OBSpiskov
 https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwh
