@@ -1,5 +1,7 @@
-# OBSpiskov
-@obspiskov
+# OBWL
+тгк: @obwhitel
 
-Подписка OBSpiskov
-https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwh
+Подписка OBWL (ранее OBSpiskov)
+https://raw.githubusercontent.com/vsevjik/OBWL/refs/heads/main/wwh
+
+Вставьте ссылку в Happ
